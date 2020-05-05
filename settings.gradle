@@ -1,0 +1,3 @@
+rootProject.name='Rider'
+include ':app'
+include ':simulator'
